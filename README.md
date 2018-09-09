@@ -1,0 +1,2 @@
+# configs
+Mostly for /etc
